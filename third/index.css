@@ -1,0 +1,48 @@
+nav {
+    background-color: lightgray;
+    width: 100vw;
+    height: 10vh;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-inline-start: 15px;
+}
+
+.box {
+    height: 40px;
+    width: 40px;
+    background-color: lightskyblue;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    background-color: white;
+    width: 100vw;
+    height: 20vh;
+    margin: 5vh;
+    /* border: black solid 2px; */
+}
+
+.color-bar-one {
+    background-color: lightskyblue;
+    width: 100vw;
+    height: 15vh;
+}
+
+.color-bar-two {
+    background-color: rgb(18, 179, 201);
+    width: 100vw;
+    height: 15vh;
+}
+
+.color-bar-three {
+    background-color: rgb(123, 180, 106);
+    width: 100vw;
+    height: 15vh;
+}
+
+.color-bar-four {
+    background-color: rgb(231, 228, 26);
+    width: 100vw;
+    height: 15vh;
+}
