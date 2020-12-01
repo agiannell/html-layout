@@ -1,0 +1,25 @@
+#bg {
+    width: 500px;
+    height: 500px;
+    background-color: lightgray;
+}
+
+header {
+    width: 500px;
+    height: 75px;
+    background-color: gray;
+}
+
+#body {
+    width: 325px;
+    height: 375px;
+    background-color: white;
+    margin: 0 87.5px;
+}
+
+footer {
+    width: 325px;
+    height: 50px;
+    background-color: black;
+    margin: 0 87.5px;
+}
